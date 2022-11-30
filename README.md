@@ -2,7 +2,7 @@
 
 
 ## Enonce projet
-![Vidéo Projet](SystemeSolaire.mov)
+![Vidéo Projet](SystemeSolaire.mp4)
 
 
 <img width="570" alt="image" src="https://user-images.githubusercontent.com/118447835/204680635-ae83f489-d2a7-4d15-afe3-d52dc229f774.png">
